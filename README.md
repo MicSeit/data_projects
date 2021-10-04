@@ -1,3 +1,3 @@
-# Portfplio of Data Projects
+# Portfolio of Data Projects
 
 https://micseit.github.io/
