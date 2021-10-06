@@ -70,7 +70,7 @@ Clients pay 100 units for each operator (regardless of their plan).
 
 # Documentation
 
-Final Project
+Telecom Project
 Reading for the hypotheses testing, and the prediction models, choosing the right metrics and draw the right conclusions.	
 - https://pandas.pydata.org/pandas-docs/stable/index.html
 - https://scikit-learn.org/stable/index.html
