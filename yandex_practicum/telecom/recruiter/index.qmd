@@ -1,0 +1,62 @@
+---
+title: "Telecom Customer Churn Prediction"
+author: "Your Name"
+format:
+  html:
+    theme: cosmo
+    toc: false
+---
+
+## Project Summary
+
+This project predicts customer churn for a telecommunications provider using machine learning.  
+The objective is to identify high-risk customers and uncover the primary drivers of churn to support retention strategies.
+
+---
+
+## Business Problem
+
+Customer churn reduces revenue and increases acquisition costs.  
+This analysis answers three key questions:
+
+- Which customers are most likely to churn?
+- What factors drive churn behavior?
+- How can predictions support proactive retention?
+
+---
+
+## Data & Methods
+
+**Data**
+- Customer demographics
+- Contract and service information
+- Billing and tenure metrics
+
+**Methods**
+- Exploratory data analysis
+- Feature engineering
+- Supervised classification modeling
+- Evaluation using ROC-AUC and recall
+
+---
+
+## Key Results
+
+- The final model significantly outperforms a baseline classifier
+- Contract type and tenure are the strongest churn predictors
+- Model outputs can be used to prioritize retention campaigns
+
+---
+
+## Project Artifacts
+
+- [GitHub Repository](https://github.com/MicSeit/data_projects)
+- [Analysis Notebook](notebook/telecom_customers.ipynb)
+
+---
+
+## About Me
+
+I am a financial/data analyst with experience in exploratory analysis, machine learning, and business-focused insights.
+
+**Skills:** Python, SQL, Machine Learning, Data Visualization

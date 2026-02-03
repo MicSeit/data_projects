@@ -1,0 +1,42 @@
+---
+title: "Churn Analysis & Predictive Modeling"
+format:
+  html:
+    theme: flatly
+    toc: true
+    code-fold: true
+---
+## Problem Statement
+
+Customer churn is a major revenue risk for telecommunications providers.  
+The objective of this analysis is to identify customers at high risk of churn and understand the key factors driving churn behavior.
+
+This project focuses on:
+- Predicting churn using supervised machine learning
+- Identifying the most influential churn drivers
+- Translating predictions into actionable business insights
+
+From a business perspective, retention actions are costly and should be targeted.  
+An accurate churn model enables prioritization of customers who are most likely to leave, improving the efficiency of retention campaigns.
+
+## Data Overview
+
+The dataset contains customer-level information including:
+- Demographic attributes
+- Contract and service details
+- Usage behavior
+- Billing and tenure information
+
+The target variable is a binary indicator of customer churn.
+
+Initial inspection revealed class imbalance, with churned customers representing a minority of the dataset.  
+This informed metric selection during modeling.
+
+## Exploratory Data Analysis
+
+Exploratory analysis focused on identifying behavioral and contractual patterns associated with churn.
+
+### Churn Distribution
+
+The dataset exhibits class imbalance, with a smaller proportion of customers churning.
+This reinforces the need for evaluation metrics beyond accuracy.

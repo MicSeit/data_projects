@@ -1,0 +1,74 @@
+---
+title: "Telecom Customer Churn — Predictive Modeling Case Study"
+author: "Your Name"
+format:
+  html:
+    theme: flatly
+    toc: true
+---
+## Executive Summary
+
+Customer churn poses a significant revenue risk in telecom services.  
+This project builds a predictive model to identify customers at high risk of churn and uncovers the key drivers behind churn behavior.
+
+The emphasis is not only on prediction accuracy, but on business interpretability and decision support.
+
+---
+
+## Business Context
+
+Retention campaigns are expensive and must be targeted.  
+A predictive churn model allows the business to:
+
+- Identify high-risk customers early
+- Understand churn drivers
+- Allocate retention budgets efficiently
+
+---
+
+## Analytical Approach
+
+### Exploratory Analysis
+Initial exploration focused on:
+- Churn distribution and imbalance
+- Behavioral differences between churned and retained customers
+
+### Feature Engineering
+- Categorical encoding
+- Numerical scaling
+- Leakage prevention
+
+### Modeling Strategy
+- Baseline comparison
+- Tree-based classification
+- Metric selection aligned with retention goals
+
+---
+
+## Results & Insights
+
+- The final model shows strong discriminatory power
+- Contract type and tenure are the most influential features
+- High-risk segments can be clearly identified
+
+---
+
+## Business Implications
+
+Rather than offering incentives to all customers, the model enables:
+- Targeted retention offers
+- Reduced incentive costs
+- Data-driven churn mitigation
+
+---
+
+## Project Resources
+
+- [Full GitHub Repository](https://github.com/MicSeit/data_projects)
+- [Complete Analysis Notebook](notebook/telecom_customers.ipynb)
+
+---
+
+## About
+
+Financial/Data analyst focused on turning data into business decisions.
